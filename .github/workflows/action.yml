@@ -17,8 +17,8 @@ jobs:
             dingtalk_token: DINGTALK_TOKEN
             pushplus_token: PUSHPLUS_TOKEN
             serverchan_key: SERVERCHAN_KEY
-          - username: yangwen_USERNAME
-            password: yangwen_PASSWORD
+          - username: YANGWEN_USERNAME
+            password: YANGWEN_PASSWORD
             dingtalk_token: DINGTALK_TOKEN
             pushplus_token: PUSHPLUS_TOKEN
             serverchan_key: SERVERCHAN_KEY
